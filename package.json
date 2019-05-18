@@ -8,11 +8,13 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@svgr/cli": "^4.2.0",
     "gatsby": "^2.3.16",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-feed": "^2.1.0",
     "gatsby-plugin-google-analytics": "^2.0.18",
     "gatsby-plugin-manifest": "^2.0.28",
+    "gatsby-plugin-netlify-cms": "^4.0.1",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.32",
@@ -25,6 +27,7 @@
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2.1.17",
+    "netlify-cms-app": "^2.9.1",
     "prismjs": "^1.16.0",
     "prosemirror-example-setup": "^1.0.1",
     "prosemirror-schema-basic": "^1.0.1",
